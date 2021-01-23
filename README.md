@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/Kam0615/My%20Java%20Project/_apis/build/status/kc54321.pipelines-java?branchName=master)](https://dev.azure.com/Kam0615/My%20Java%20Project/_build/latest?definitionId=1&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
